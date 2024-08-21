@@ -34,4 +34,6 @@ Galatasaray Legends, Galatasaray futbol kulübünün efsane oyuncularını tanı
 - React Bootstrap
 - Javascript
 
+https://github.com/user-attachments/assets/907bcb43-1c43-46c6-85da-05370edf77a9
+
 [Live](https://fy-galatasaray-legends.netlify.app/)
