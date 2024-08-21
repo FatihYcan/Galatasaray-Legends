@@ -1,4 +1,4 @@
-# GalatasarayLegends
+# Galatasaray Legends
 
 Galatasaray Legends is a web application that introduces the legendary players of Galatasaray football club. Developed using React and Bootstrap.
 
