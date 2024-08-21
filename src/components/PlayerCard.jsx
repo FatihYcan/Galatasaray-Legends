@@ -26,7 +26,7 @@ const PlayerCard = ({ img, name, statistics }) => {
         <ul className="m-auto">
           {statistics.map((item, i) => (
             <li key={i} className="list-unstyled h5 text-start mb-3">
-              🏀 {item}
+              {item}
             </li>
           ))}
         </ul>
@@ -49,7 +49,11 @@ const PlayerCard = ({ img, name, statistics }) => {
 
       <Card.Footer className="footer rounded-bottom-4">
         <Card.Title className="name">
-        <a href={`https://tr.wikipedia.org/wiki/${name}`} target="blank" className="text-decoration-none">
+          <a
+            href={`https://tr.wikipedia.org/wiki/${name}`}
+            target="blank"
+            className="text-decoration-none"
+          >
             {name}
           </a>
         </Card.Title>

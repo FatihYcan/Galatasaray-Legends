@@ -26,9 +26,8 @@ const CardContainer = () => {
         onChange={handleChange}
         type="search"
         value={search}
-        
       />
-      <Container className="rounded-4 my-4 p-3 card-container">
+      <Container className="my-4 py-3">
         <Row className="justify-content-center g-3">
           {data
             .filter((item) =>

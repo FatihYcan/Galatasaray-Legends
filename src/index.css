@@ -7,12 +7,12 @@
 }
 
 body {
-  background-color: #e0f7fa;
+  background-color: #F7E300;
   background-image: linear-gradient(
     180deg,
-    #e0f7fa 0%,
-    #b3e5fc 50%,
-    #81d4fa 100%
+    #F7E300 0%,
+    #E4002B 50%,
+    #F7E300 100%
   );
   color: #212121;
   line-height: 1.6;
